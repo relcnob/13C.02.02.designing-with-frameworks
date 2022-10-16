@@ -1,0 +1,9 @@
+/* TAILWIND */
+/* npx tailwindcss -i ./style/style.css -o ./style/output.css --watch */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}

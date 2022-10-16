@@ -7,3 +7,6 @@
 html {
   scroll-behavior: smooth;
 }
+.header_graphics {
+  background-image: url("../assets/header-img.jpg");
+}

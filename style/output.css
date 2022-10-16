@@ -855,10 +855,6 @@ video {
   background-color: rgb(241 245 249 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/assets\/header-img\.jpg\'\)\] {
-  background-image: url('/assets/header-img.jpg');
-}
-
 .bg-cover {
   background-size: cover;
 }
@@ -1010,6 +1006,10 @@ video {
 
 html {
   scroll-behavior: smooth;
+}
+
+.header_graphics {
+  background-image: url("../assets/header-img.jpg");
 }
 
 .hover\:bg-slate-400:hover {
